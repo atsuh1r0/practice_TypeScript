@@ -1,1 +1,1 @@
-# ractice_TypeScript
+# practice_TypeScript
